@@ -12,11 +12,9 @@ minecraft/plugins/**/src/test/
 extensions/**/node_modules/
 
 
-.data/
-
 scripts/*.exe
 *.exe
 *.jar
-*.db
+.db/wnjpn.db
 *.log
 *.zip
