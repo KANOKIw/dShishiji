@@ -1,0 +1,10 @@
+config:
+  target: "http://shishiji.kanokiw.com"
+  phases:
+    - duration: 10
+      arrivalRate: 1000
+      rampTo: 10000
+scenarios:
+  - flow:
+      - get:
+          url: "/"

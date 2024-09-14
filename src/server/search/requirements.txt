@@ -1,0 +1,9 @@
+torch
+mecab-python3
+numpy
+unidic-lite
+jaconv
+transformers
+flashtext
+flask
+pandas
